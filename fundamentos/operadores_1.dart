@@ -28,3 +28,4 @@ print(ehFragil || ehCaro)// || = OU, operador binário, infix, é frágil ou car
 print(ehFragil ^ ehCaro)// ^ = OU exclusivo, operador binário, infix, é frágil ou caro, vai dar verdadeiro se uma das condições for verdadeira, mas não as duas
 print(!ehFragil)// ! = NÃO, operador unário, prefix, não é frágil, se é vdd passa a ser falso e vice versa, Unário
 print(!!ehFragil)// !!=volta o valor anterior, então o não vira sim
+}
